@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin-left: 30rem;
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-radius: 5%;
+    border: 1px solid gray;
+    width: 450px;
+    height: 450px;
+}
+
+.container .title{
+    margin-left: 9rem;
+}
+
+.btn-danger{
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    margin-left: 9rem;
+    margin-top: 1rem;
+    width: 150px;
+    height: 45px;
+    font-weight: bold;
+}
+
+.container .form-group input{
+    width: 400px;
+}
+
+.container .form-group .form-control{
+    width: 400px;
+}
+
+.container .form-group option{
+    font-weight: bold;
+}
